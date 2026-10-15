@@ -6,7 +6,7 @@ int main() {
     double a, b;
     char operacija;
 
-    cout << "Vnesi prvo stevilo: ";
+    cout << "KALKULATOR - Vnesi prvo stevilo: ";
     cin >> a;
 
     cout << "Vnesi operacijo (+, -, *, /): ";
