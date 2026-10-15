@@ -6,11 +6,7 @@ int main() {
     double a, b;
     char operacija;
 
-<<<<<<< HEAD
     cout << "KALKULATOR - Vnesi prvo stevilo 1: ";
-=======
-    cout << "KALKULATOR - Vnesi prvo stevilo A: ";
->>>>>>> konflikt
     cin >> a;
 
     cout << "Vnesi operacijo (+, -, *, /): ";
