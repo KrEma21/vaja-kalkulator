@@ -8,3 +8,6 @@ Program omogoča:
 - Odštevanje
 - Množenje
 - Deljenje
+
+## Prihodnje izboljsave
+Dodajanje izracuna potence.
