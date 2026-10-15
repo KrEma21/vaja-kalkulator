@@ -6,13 +6,13 @@ int main() {
     double a, b;
     char operacija;
 
-    cout << "KALKULATOR - Vnesi prvo stevilo: ";
+    cout << "KALKULATOR - Vnesi prvo stevilo A: ";
     cin >> a;
 
     cout << "Vnesi operacijo (+, -, *, /): ";
     cin >> operacija;
 
-    cout << "Vnesi drugo stevilo: ";
+    cout << "Vpisis drugo stevilo: ";
     cin >> b;
 
     switch (operacija) {
